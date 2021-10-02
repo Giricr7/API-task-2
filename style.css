@@ -32,16 +32,19 @@
 .cases {
   border: 5px solid yellow;
   padding: 3%;
+  background-color: #f0f086;
 }
 
 .recovered {
   border: 5px solid greenyellow;
   padding: 3%;
+  background-color: rgb(198, 247, 125);
 }
 
 .deaths {
   border: 5px solid red;
   padding: 3%;
+  background-color: rgb(250, 135, 135);
 }
 
 .cases h6,
