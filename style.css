@@ -44,16 +44,18 @@
   padding: 3%;
 }
 
-.cases h6,.recovered h6,.deaths h6{
-    color: #3333cc;
+.cases h6,
+.recovered h6,
+.deaths h6 {
+  color: #3333cc;
 }
 
+.top_heading {
+  text-align: center;
+}
 
-
-
-@media screen and (max-width:720px) {
-  
-  .date_selector{
+@media screen and (max-width: 720px) {
+  .date_selector {
     width: fit-content;
   }
 }
